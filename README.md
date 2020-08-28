@@ -1,4 +1,4 @@
-### Hi there 👋
+# Rahul Singh
 
 <!--
 **Rahul-singh98/Rahul-singh98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
