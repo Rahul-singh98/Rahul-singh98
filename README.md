@@ -1,5 +1,4 @@
-# Rahul Singh
-<div style="background: grey; color: white;">
+<div style="background:">
 	<h1>Hi, I'm Rahul Singh</h1>
 	<h2>BCA(Final) student</h2>
 	<h3>Indira Gandhi National Open University</h3>
