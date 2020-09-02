@@ -1,27 +1,32 @@
-<a href="https://rahul-singh98.github.io/"><img height="350" width="850" src="https://github.com/Rahul-singh98/Rahul-singh98/blob/master/readme_resources/Top.png"></a>
+<a href="https://rahul-singh98.github.io/"><img src="https://github.com/Rahul-singh98/Rahul-singh98/blob/master/readme_resources/Top.png"></a>
 # Machine Learning Enthusiast
 Looking for a good opportunity :blush: .
 
 ## Qualifications :book: :-
-BCA(final) 
-*Indira Gandhi National Open University* .
+ BCA(final) 
+ *Indira Gandhi National Open University* .
 
 ## Technical Skills :dart: :-
-Programming Languages :- - Python\
-						 - C\
-						 - C++
-Frame Works :- - Flask \
-		       - Django\
-Packages :- - scikit learn\
-			- pytorch\
-			- tensorflow\
-			- pyspark\
-Business Tools :- - Tableau\
-				  - PowerBi
-Cloud Development Tools :- - Google Cloud Computing\
-	    				   - AWS\
-	    				   - Azure\
-	    				   - IBM-Watson
+Programming Languages :-
+ - Python
+ - C
+ - C++
+Frame Works :-
+ - Flask 
+ - Django
+Packages :- 
+ - scikit learn
+ - pytorch
+ - tensorflow
+ - pyspark
+Business Tools :- 
+ - Tableau
+ - PowerBi
+Cloud Development Tools :- 
+ - Google Cloud Computing
+ - AWS
+ - Azure
+ - IBM-Watson
 
 ## Projects :memo: :-
 [Bengaluru House Price Prediction](https://github.com/Rahul-singh98/Bengaluru_House_Prediction)\
@@ -44,4 +49,4 @@ Cloud Development Tools :- - Google Cloud Computing\
 
 <a href="https://rahul-singh98.github.io/"><img height="350" width="850" src="https://github.com/Rahul-singh98/Rahul-singh98/blob/master/readme_resources/Bottom.png"></a>
 
-@gurus20
+@github/gurus20
