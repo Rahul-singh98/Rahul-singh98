@@ -1,4 +1,4 @@
-<a href="https://rahul-singh98.github.io/"><img height="200" width="850" src="https://github.com/Rahul-singh98/Rahul-singh98/blob/master/readme_resources/Top.png"></a>
+<a href="https://rahul-singh98.github.io/"><img height="150" width="850" src="https://github.com/Rahul-singh98/Rahul-singh98/blob/master/readme_resources/Top.png"></a>
 
 # Machine Learning Enthusiast
 Looking for a good opportunity :blush: .
@@ -59,6 +59,6 @@ Looking for a good opportunity :blush: .
   </p>
 </p>
 
-<a href="https://rahul-singh98.github.io/"><img height="200" width="850" src="https://github.com/Rahul-singh98/Rahul-singh98/blob/master/readme_resources/Bottom.png"></a>
+<a href="https://rahul-singh98.github.io/"><img height="150" width="850" src="https://github.com/Rahul-singh98/Rahul-singh98/blob/master/readme_resources/Bottom.png"></a>
 
 @[gurus20](https://github.com/gurus20)
