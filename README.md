@@ -1,3 +1,6 @@
+<img src="./readme_resources/top.png">
+
+
 <div style="background:">
 	<h1>Hi, I'm Rahul Singh</h1>
 	<h2>BCA(Final) student</h2>
@@ -17,3 +20,4 @@
   </p>
 </p>
 
+<img src="./readme_resources/bottom.png">
