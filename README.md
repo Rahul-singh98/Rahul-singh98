@@ -5,31 +5,31 @@ Looking for a good opportunity :blush: .
 
 ## Qualifications :book: :-
 
- BCA(final)
+ **BCA(final)**
 
- *Indira Gandhi National Open University* .
+ ***Indira Gandhi National Open University*** .
 
 ## Technical Skills :dart: :-
-###Programming Languages :-
+### Programming Languages :-
  - Python
  - C
  - C++
 
-###Frame Works :-
+### Frame Works :-
  - Flask 
  - Django
 
-###Packages :- 
+### Packages :- 
  - scikit learn
  - pytorch
  - tensorflow
  - pyspark
 
-###Business Tools :- 
+### Business Tools :- 
  - Tableau
  - PowerBi
 
-###Cloud Development Tools :- 
+### Cloud Development Tools :- 
  - Google Cloud Computing
  - AWS
  - Azure
