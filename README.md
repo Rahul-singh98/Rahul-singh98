@@ -1,12 +1,37 @@
 <a href="https://rahul-singh98.github.io/"><img height="350" width="850" src="https://github.com/Rahul-singh98/Rahul-singh98/blob/master/readme_resources/top.png"></a>
+##    Machine Learning Enthusiast
+> 		Looking for a good opportunity :blush: .
 
+#     Qualifications :book: :-
+>		BCA(final) - *Indira Gandhi National Open University*.
 
-<div style="background:">
-	<h1>Hi, I'm Rahul Singh</h1>
-	<h2>BCA(Final) student</h2>
-	<h3>Indira Gandhi National Open University</h3>
-</div>
+#     Technical Skills :dart: :-
+>		* Programming Languages :- Python
+								 - C
+								 - C++
 
+		* Frame Works :- Flask 
+		               - Django
+
+		* Packages :- scikit learn
+					 - pytorch
+					 - tensorflow
+					 - pyspark
+
+		* Business Tools :- Tableau
+						  - PowerBi
+
+	    * Cloud Development Tools :- Google Cloud Computing
+	    						   - AWS
+	    						   - Azure
+	    						   - IBM-Watson
+
+#	 Projects :memo: :-
+>			- [Bengaluru House Price Prediction](https://github.com/Rahul-singh98/Bengaluru_House_Prediction)
+			- [Sentiment Analysis Project](https://github.com/Rahul-singh98/Sentiment_Analysis_Project)
+			- [Movie Recommendation System](https://github.com/Rahul-singh98/movie_recommendation)
+			- [Digit Recognition](https://github.com/Rahul-singh98/Deep_learning_projects)
+			
 [![Rahul Singh's stats](https://github-readme-stats.vercel.app/api?username=Rahul-singh98)](https://github.com/Rahul-singh98/github-readme-stats)
 
 <hr>
