@@ -1,38 +1,50 @@
 <a href="https://rahul-singh98.github.io/"><img src="https://github.com/Rahul-singh98/Rahul-singh98/blob/master/readme_resources/Top.png"></a>
+
 # Machine Learning Enthusiast
 Looking for a good opportunity :blush: .
 
 ## Qualifications :book: :-
- BCA(final) 
+
+ BCA(final)
+
  *Indira Gandhi National Open University* .
 
 ## Technical Skills :dart: :-
-Programming Languages :-
+###Programming Languages :-
  - Python
  - C
  - C++
-Frame Works :-
+
+###Frame Works :-
  - Flask 
  - Django
-Packages :- 
+
+###Packages :- 
  - scikit learn
  - pytorch
  - tensorflow
  - pyspark
-Business Tools :- 
+
+###Business Tools :- 
  - Tableau
  - PowerBi
-Cloud Development Tools :- 
+
+###Cloud Development Tools :- 
  - Google Cloud Computing
  - AWS
  - Azure
  - IBM-Watson
 
 ## Projects :memo: :-
-[Bengaluru House Price Prediction](https://github.com/Rahul-singh98/Bengaluru_House_Prediction)\
-[Sentiment Analysis Project](https://github.com/Rahul-singh98/Sentiment_Analysis_Project)\
-[Movie Recommendation System](https://github.com/Rahul-singh98/movie_recommendation)\
+[Bengaluru House Price Prediction](https://github.com/Rahul-singh98/Bengaluru_House_Prediction)
+
+[Sentiment Analysis Project](https://github.com/Rahul-singh98/Sentiment_Analysis_Project)
+
+[Movie Recommendation System](https://github.com/Rahul-singh98/movie_recommendation)
+
 [Digit Recognition](https://github.com/Rahul-singh98/Deep_learning_projects)
+
+
 
 [![Rahul Singh's stats](https://github-readme-stats.vercel.app/api?username=Rahul-singh98)](https://github.com/Rahul-singh98/github-readme-stats)
 
@@ -49,4 +61,4 @@ Cloud Development Tools :-
 
 <a href="https://rahul-singh98.github.io/"><img height="350" width="850" src="https://github.com/Rahul-singh98/Rahul-singh98/blob/master/readme_resources/Bottom.png"></a>
 
-@github/gurus20
+@[gurus20](https://github.com/gurus20)
