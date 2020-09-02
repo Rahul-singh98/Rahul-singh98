@@ -1,4 +1,4 @@
-<a href="https://rahul-singh98.github.io/"><img width="40" src="https://github.com/Rahul-singh98/Rahul-singh98/blob/master/readme_resources/top.png"></a>
+<a href="https://rahul-singh98.github.io/"><img width="700" height="1800" src="https://github.com/Rahul-singh98/Rahul-singh98/blob/master/readme_resources/top.png"></a>
 
 
 <div style="background:">
@@ -20,4 +20,4 @@
   </p>
 </p>
 
-<a href="https://rahul-singh98.github.io/"><img width="40" src="https://github.com/Rahul-singh98/Rahul-singh98/blob/master/readme_resources/bottom.png"></a>
+<a href="https://rahul-singh98.github.io/"><img width="700" height="1800" src="https://github.com/Rahul-singh98/Rahul-singh98/blob/master/readme_resources/bottom.png"></a>
