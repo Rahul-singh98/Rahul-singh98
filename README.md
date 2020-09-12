@@ -45,8 +45,14 @@ Looking for a good opportunity :blush: .
 [Digit Recognition](https://github.com/Rahul-singh98/Deep_learning_projects)
 
 
+<a href="https://github.com/Rahul-singh98">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-singh98&layout=compact" />
+</a>
+<a href="https://github.com/Rahul-singh98">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rahul-singh98&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=prs,issues" />
+</a>
 
-[![Rahul Singh's stats](https://github-readme-stats.vercel.app/api?username=Rahul-singh98)](https://github.com/Rahul-singh98/github-readme-stats)
+
 
 <hr>
 <p align="center">
