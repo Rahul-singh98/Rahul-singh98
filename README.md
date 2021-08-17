@@ -1,6 +1,6 @@
 <a href="https://rahul-singh98.github.io/"><img height="150" width="850" src="https://github.com/Rahul-singh98/Rahul-singh98/blob/master/readme_resources/Top.png"></a>
 
-Currently working as a Data Scientist in ![CodeSure](https://github.com/Rahul-singh98/Rahul-singh98/blob/master/readme_resources/CodeSurelogo.png)
+Currently working as a Data Scientist in <img height="5" width="10" src="https://github.com/Rahul-singh98/Rahul-singh98/blob/master/readme_resources/CodeSurelogo.png">
 
 
 ## Technical Skills :dart: :-
