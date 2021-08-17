@@ -1,11 +1,7 @@
 <a href="https://rahul-singh98.github.io/"><img height="150" width="850" src="https://github.com/Rahul-singh98/Rahul-singh98/blob/master/readme_resources/Top.png"></a>
 
-# Machine Learning Enthusiast
-## Qualifications :book: :-
+Currently working as a Data Scientist in ![CodeSure](https://github.com/Rahul-singh98/Rahul-singh98/blob/master/readme_resources/CodeSurelogo.png)
 
- **BCA(final)**
-
- ***Indira Gandhi National Open University*** .
 
 ## Technical Skills :dart: :-
 ### Programming Languages :-
