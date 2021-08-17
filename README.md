@@ -1,35 +1,11 @@
 <a href="https://rahul-singh98.github.io/"><img height="150" width="850" src="https://github.com/Rahul-singh98/Rahul-singh98/blob/master/readme_resources/Top.png"></a>
 
-Currently working as a Data Scientist in <img height="5" width="10" src="https://github.com/Rahul-singh98/Rahul-singh98/blob/master/readme_resources/CodeSurelogo.png">
+Currently working as a Data Scientist in <img height="100" width="100" src="https://github.com/Rahul-singh98/Rahul-singh98/blob/master/readme_resources/CodeSurelogo.png"> , and a competetive programmer at codechef.
 
+***Skills :dart: :-***
+<img height="100" width="100" src="https://github.com/Rahul-singh98/Rahul-singh98/blob/master/readme_resources/python.jpeg"> <img height="100" width="100" src="https://github.com/Rahul-singh98/Rahul-singh98/blob/master/readme_resources/c.png"> <img height="100" width="100" src="https://github.com/Rahul-singh98/Rahul-singh98/blob/master/readme_resources/cpp.png"> <img height="100" width="100" src="https://github.com/Rahul-singh98/Rahul-singh98/blob/master/readme_resources/linux.jpeg"> <img height="100" width="100" src="https://github.com/Rahul-singh98/Rahul-singh98/blob/master/readme_resources/sklearn.png"> <img height="100" width="100" src="https://github.com/Rahul-singh98/Rahul-singh98/blob/master/readme_resources/pyspark.png"> <img height="100" width="100" src="https://github.com/Rahul-singh98/Rahul-singh98/blob/master/readme_resources/powerbi.png"> <img height="100" width="100" src="https://github.com/Rahul-singh98/Rahul-singh98/blob/master/readme_resources/tableau.png"> <img height="100" width="100" src="https://github.com/Rahul-singh98/Rahul-singh98/blob/master/readme_resources/tf.png"> <img height="100" width="100" src="https://github.com/Rahul-singh98/Rahul-singh98/blob/master/readme_resources/watson.jpeg"> <img height="100" width="100" src="https://github.com/Rahul-singh98/Rahul-singh98/blob/master/readme_resources/flask.png"> <img height="100" width="100" src="https://github.com/Rahul-singh98/Rahul-singh98/blob/master/readme_resources/django.png">
 
-## Technical Skills :dart: :-
-### Programming Languages :-
- - Python
- - C
- - C++
-
-### Frame Works :-
- - Flask 
- - Django
-
-### Packages :- 
- - scikit learn
- - pytorch
- - tensorflow
- - pyspark
-
-### Business Tools :- 
- - Tableau
- - PowerBi
-
-### Cloud Development Tools :- 
- - Google Cloud Computing
- - AWS
- - Azure
- - IBM-Watson
-
-## Projects :memo: :-
+***Projects :memo: :-***
 [Bengaluru House Price Prediction](https://github.com/Rahul-singh98/Bengaluru_House_Prediction)
 
 [Sentiment Analysis Project](https://github.com/Rahul-singh98/Sentiment_Analysis_Project)
@@ -45,8 +21,6 @@ Currently working as a Data Scientist in <img height="5" width="10" src="https:/
 <a href="https://github.com/Rahul-singh98">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rahul-singh98&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=prs,issues" />
 </a>
-
-
 
 <hr>
 <p align="center">
