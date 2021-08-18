@@ -5,9 +5,9 @@ Currently working as a Data Scientist in <a href='https://codesure.com'>CodeSure
 ***Skills*** :dart: :-
 
 
-<img align="left" width="20px" src="./readme_resources/python.svg" /> <img height="20" width="20" src="./readme_resources/c.png" /> <img align='left' height="20" width="20" src="./readme_resources/cpp.png" /> <img height="20" width="20" src="./readme_resources/linux.jpeg"> <img height="30" width="30" src="https://github.com/Rahul-singh98/Rahul-singh98/blob/master/readme_resources/sklearn.png"> <img height="30" width="30" src="https://github.com/Rahul-singh98/Rahul-singh98/blob/master/readme_resources/pyspark.png"> <img height="30" width="30" src="https://github.com/Rahul-singh98/Rahul-singh98/blob/master/readme_resources/powerbi.png"> <img height="30" width="30" src="https://github.com/Rahul-singh98/Rahul-singh98/blob/master/readme_resources/tableau.png"> <img height="30" width="30" src="https://github.com/Rahul-singh98/Rahul-singh98/blob/master/readme_resources/tf.png"> <img height="30" width="30" src="https://github.com/Rahul-singh98/Rahul-singh98/blob/master/readme_resources/watson.jpeg"> <img height="30" width="30" src="https://github.com/Rahul-singh98/Rahul-singh98/blob/master/readme_resources/flask.png"> <img height="30" width="30" src="https://github.com/Rahul-singh98/Rahul-singh98/blob/master/readme_resources/django.png">
-
-***Projects :memo: :-***
+<img align="left" width="20px" src="./readme_resources/python.svg" /> <img align='left' width="20" src="./readme_resources/c.png" /> <img align='left' width="20" src="./readme_resources/cpp.png" /> <img align='left' width="20" src="./readme_resources/linux.png" /> <img align='left' width="20" src="./readme_resources/scikit-learn.png" /> <img align='left' height="20" width="20" src="./readme_resources/pyspark.png" /> <img align='left' height='20' width="20" src="./readme_resources/powerbi.png" /> <img align='left' height='20' width="20" src="./readme_resources/tableau.png" /> <img align='left' width="20" src="./readme_resources/tf.png" /> <img align='left' height='20' width="20" src="./readme_resources/watson.jpeg" /> <img align='left' height='20' width="20" src="./readme_resources/flask.png" /> <img align='left' height='20' width="20" src="./readme_resources/django.png">
+<br><br>
+***Projects*** :memo: :-
 [Bengaluru House Price Prediction](https://github.com/Rahul-singh98/Bengaluru_House_Prediction)
 
 [Sentiment Analysis Project](https://github.com/Rahul-singh98/Sentiment_Analysis_Project)
