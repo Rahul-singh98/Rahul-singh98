@@ -35,6 +35,6 @@ Currently working as a Data Scientist in <a href='https://codesure.com'>CodeSure
   </p>
 </p>
 
-<a href="https://rahul-singh98.github.io/"><img height="150" width="850" src="https://github.com/Rahul-singh98/Rahul-singh98/blob/master/readme_resources/Bottom.png"></a>
+<a href="https://rahul-singh98.github.io/"><img height="150" width="850" src="./readme_resources/Bottom.png"></a>
 
 @[gurus20](https://github.com/gurus20)
